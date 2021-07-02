@@ -7,10 +7,10 @@ github_username: MichaelCurrin
 
 ### Build settings ###
 
-url: https://michaelcurrin.github.io
+url: https://mtearle.github.io
 baseurl: /jekyll-theme-quickstart
 
-remote_theme: MichaelCurrin/jekyll-theme-quickstart
+remote_theme: mtearle/jekyll-theme-quickstart
 
 plugins:
   - jekyll-remote-theme
