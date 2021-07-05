@@ -5,7 +5,7 @@ h help:
 
 install:
 	bundle config set --local path vendor/bundle
-	bundle install
+	bundle install --path vendor/bundle
 
 s serve:
 	bundle exec jekyll serve --trace --livereload
