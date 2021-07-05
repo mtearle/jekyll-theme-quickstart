@@ -4,7 +4,7 @@
 
 ## View demo
 
-This is a test
+This is a test #2
 
 A link to a live site that uses Remote Theme plugin on GitHub Pages.
 
