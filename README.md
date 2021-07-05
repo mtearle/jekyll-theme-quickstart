@@ -4,6 +4,8 @@
 
 ## View demo
 
+This is a test
+
 A link to a live site that uses Remote Theme plugin on GitHub Pages.
 
 <div align="center">
