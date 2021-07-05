@@ -3,6 +3,8 @@ title: Homepage
 layout: page
 ---
 
+All the demo all the time
+
 Welcome to Jekyll Theme Quickstart, a minimal theme to get you started.
 
 This the demo site, for local development and deploying as a GitHub Pages site.
